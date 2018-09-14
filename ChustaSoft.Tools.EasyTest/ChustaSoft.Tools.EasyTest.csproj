@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Xelit3</Authors>
+    <Company>ChustaSoft</Company>
+    <Description>Simple framework for ease Integration Testing, providing an structure and a workflow control</Description>
+    <PackageProjectUrl>https://github.com/Xelit3/EasyTest</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/Xelit3/EasyTest/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/Xelit3/EasyTest.git</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>IntegrationTest;Test;Testing</PackageTags>
   </PropertyGroup>
 
 </Project>
